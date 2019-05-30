@@ -98,7 +98,7 @@ msgstr ""
 
 #: ../errordialogs.py:70
 msgid "Bad request"
-msgstr "Petición incorrecta"
+msgstr "Petición equivocada"
 
 #: ../errordialogs.py:72
 msgid "Not found"
